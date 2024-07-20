@@ -2,7 +2,8 @@
 
 This project involved analyzing a rich dataset containing information about sales transactions across various product categories, customer demographics, and locations. The goal was to uncover valuable insights to help the supermarket make informed decisions and drive growth.
 
-![Sales Analysis](https://github.com/user-attachments/assets/4a2b6781-507f-43f2-bccf-b09688834cb6)
+
+![Supermarket store Dashboard](https://github.com/user-attachments/assets/f2ee3e53-b974-4e9a-af59-a190e4c57d0a)
 
 
 
